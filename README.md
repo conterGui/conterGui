@@ -1,33 +1,42 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o conterGui! 👋
 
-### 👨‍💻 Sobre mim
-- 🎓 Atualmente a estudar **[Seu Curso/Foco]**.
-- 🚀 Apaixonado por **[Tecnologia que gosta, ex: React, Python, IA]**.
-- 🎯 O meu objetivo atual é **[Seu objetivo, ex: conseguir o primeiro estágio]**.
-- ⚡ Curiosidade: [Um facto engraçado ou hobby].
+### 🚀 Desenvolvedor Front-End em constante evolução
+Estou focado em criar interfaces modernas, acessíveis e focadas na experiência do utilizador. Adoro aprender novas tecnologias e colaborar em projetos open-source.
 
 ---
 
-### 🛠 Ferramentas e Tecnologias
-<div align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+### 🛠️ Tecnologias e Ferramentas
+
+
+| Web | Mobile | Ferramentas |
+| :--- | :--- | :--- |
+| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
+| <img src="https://shields.io" /> | | <img src="https://shields.io" /> |
+| <img src="https://shields.io" /> | | <img src="https://shields.io" /> |
+| <img src="https://shields.io" /> | | <img src="https://shields.io" /> |
 
 ---
 
 ### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://vercel.app[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://vercel.app[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
 </div>
 
 ---
 
-### 📫 Como me encontrar
-<div align="left">
-  <a href="mailto:[seuemail@link.com]"><img src="https://shields.io" target="_blank"></a>
-  <a href="https://linkedin.com[SEU-LINKEDIN]/" target="_blank"><img src="https://shields.io" target="_blank"></a>
+### 📫 Vamos conversar?
+
+<a href="mailto:teu-email@exemplo.com">
+  <img src="https://shields.io" />
+</a>
+<a href="https://linkedin.com">
+  <img src="https://shields.io" />
+</a>
+
+---
+
+<div align="center">
+  "O código é como o humor. Quando tens de o explicar, é mau." 💡
 </div>
