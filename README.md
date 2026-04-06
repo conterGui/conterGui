@@ -1,51 +1,73 @@
+# 👋 Olá, eu sou o ConterGui
+
+💻 Desenvolvedor focado em criar soluções simples, eficientes e com impacto real.  
+🚀 Interesse em automação, web e otimização de processos  
+📈 Sempre procurando evoluir e aprender coisas novas  
+
+---
+
+## 🧠 Sobre mim
+
+- 🔭 Atualmente trabalhando em projetos web
+- 🌱 Aprendendo mais sobre performance e SEO
+- ⚡ Gosto de resolver problemas de forma prática (sem overengineering)
+
+---
+
+## 🛠️ Tecnologias
+
 <div align="center">
-  <img src="https://vercel.app" width="100%" />
-  
-  <!-- Jogo da Cobrinha (Snake) - Atualiza com as tuas contribuições -->
-  <img src="https://githubusercontent.com" alt="Snake animation" />
-</div>
 
-### 📊 Estatísticas e Performance
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
 
-<div align="center">
-  <!-- Gráfico de Atividade (Ondas) -->
-  <img width="100%" src="https://vercel.app" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Cards de Stats Lado a Lado -->
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=conterGui&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conterGui&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 🔥 Streak e Atividade
+## 🔥 Streak
+
 <div align="center">
-  <img src="https://herokuapp.com" />
+
+<img src="https://streak-stats.demolab.com?user=conterGui&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
+## 📌 Projetos em destaque
+
+- 🔗 [Gerador de QR Code com overlay](#)
+- 🔗 [Landing pages otimizadas](#)
+- 🔗 [Ferramentas de automação](#)
+
+---
+
+## 🌍 Onde me encontrar
+
 <div align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:teu-email@exemplo.com">
-    <img src="https://shields.io" />
-  </a>
+
+<a href="https://github.com/conterGui">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
+
+---
+
+## 💡 Filosofia
+
+> "Feito é melhor que perfeito — mas bem feito escala melhor."
+
+---
