@@ -1,42 +1,51 @@
-# Olá, eu sou o conterGui! 👋
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+  
+  <!-- Jogo da Cobrinha (Snake) - Atualiza com as tuas contribuições -->
+  <img src="https://githubusercontent.com" alt="Snake animation" />
+</div>
 
-### 🚀 Desenvolvedor Front-End em constante evolução
-Estou focado em criar interfaces modernas, acessíveis e focadas na experiência do utilizador. Adoro aprender novas tecnologias e colaborar em projetos open-source.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-
-| Web | Mobile | Ferramentas |
-| :--- | :--- | :--- |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
-| <img src="https://shields.io" /> | | <img src="https://shields.io" /> |
-| <img src="https://shields.io" /> | | <img src="https://shields.io" /> |
-| <img src="https://shields.io" /> | | <img src="https://shields.io" /> |
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Performance
 
 <div align="center">
+  <!-- Gráfico de Atividade (Ondas) -->
+  <img width="100%" src="https://vercel.app" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Cards de Stats Lado a Lado -->
   <img height="180em" src="https://vercel.app"/>
   <img height="180em" src="https://vercel.app"/>
 </div>
 
 ---
 
-### 📫 Vamos conversar?
+### 🛠️ Tech Stack
 
-<a href="mailto:teu-email@exemplo.com">
+<div align="center">
   <img src="https://shields.io" />
-</a>
-<a href="https://linkedin.com">
   <img src="https://shields.io" />
-</a>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+
+---
+
+### 🔥 Streak e Atividade
+<div align="center">
+  <img src="https://herokuapp.com" />
+</div>
 
 ---
 
 <div align="center">
-  "O código é como o humor. Quando tens de o explicar, é mau." 💡
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:teu-email@exemplo.com">
+    <img src="https://shields.io" />
+  </a>
 </div>
