@@ -72,11 +72,3 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br>
-
----
-
-<div
-  <img src="https://streak-stats.demolab.com?user=conterGui&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
