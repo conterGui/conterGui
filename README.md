@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Guilherme
 
----
-
 ## ⚙️ Skills
 
 <p align="center">
