@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Guilherme
+# 👋 Hello! I'm Guilherme
 
 ---
 
-## ⚙️ Tecnologias e Interesses
+## ⚙️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,linux,git" />
