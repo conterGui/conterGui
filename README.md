@@ -6,7 +6,7 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
 
 ---
 
-### 🤖 Languages ​​and Technologies
+### ⚙️ Languages ​​and Technologies
 
 <img 
     align="left" 
