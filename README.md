@@ -2,11 +2,11 @@
 
 **`IT Student`**
 
-Me chamo Guilherme Conter, tenho 18 anos e sou natural do Brasil. Estou finalizando o ensino medio na AERDL, com curso profissional Técnico em Informática - Sistemas. Após isso vou ingressar no CTESP de cibersegurança  no ISTEC. Sou apaixonado por técnologia e procuro sempre expandir meu conhecimento na área. Busco constantemente evoluir minhas habilidades através de projetos práticos e estudo contínuo.
+My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am currently finishing high school at AERDL, along with a professional technical course in Computer Science – Systems. After that, I will enroll in a Higher Technical Professional Course (CTeSP) in Cybersecurity at ISTEC. I am passionate about technology and always seek to expand my knowledge in the field. I continuously aim to improve my skills through hands-on projects and ongoing study.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -76,7 +76,7 @@ Me chamo Guilherme Conter, tenho 18 anos e sou natural do Brasil. Estou finaliza
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
