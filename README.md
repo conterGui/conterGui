@@ -72,17 +72,3 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
----
-<img src="https://raw.githubusercontent.com/conterGui/conterGui/output/snake.svg" alt="Snake animation" />
-
-###
-
-### 📊 Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=conterGui&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conterGui&layout=compact&theme=tokyonight" />
-</p>
