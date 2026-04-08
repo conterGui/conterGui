@@ -75,6 +75,10 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
 
 <br/>
 <br/>
+---
+<img src="https://raw.githubusercontent.com/conterGui/conterGui/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 📊 Statistics
 
