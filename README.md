@@ -72,3 +72,7 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+---
+
+ [![Top languages](https://github-readme-conterGui.vercel.app/api/top-langs/?username=conterGui&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
