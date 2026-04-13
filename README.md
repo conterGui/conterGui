@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am currently finishing high school at AERDL, along with a professional technical course in Computer Science – Systems. After that, I will enroll in a Higher Technical Professional Course (CTeSP) in Cybersecurity at ISTEC. I am passionate about technology and always seek to expand my knowledge in the field. I continuously aim to improve my skills through hands-on projects and ongoing study.
+My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am currently finishing high school at AERDL, along with a professional technical course in Computer Science – Systems. I am passionate about technology and always seek to expand my knowledge in the field. I continuously aim to improve my skills through hands-on projects and ongoing study.
 
 ---
 
