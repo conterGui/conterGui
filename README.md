@@ -88,3 +88,11 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+<img
+    align="left" 
+    alt="Playwright" 
+    title="Playwright"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+          
