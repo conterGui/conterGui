@@ -50,12 +50,20 @@ My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am curren
 />
 <img 
     align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>    
+<img 
+    align="left" 
     alt="Remotion"
     title="Remotion" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/remotion-dev/brand/blob/main/withouttitle/element-0.png?raw=true" 
-/>
+/>    
 <img 
     align="left" 
     alt="Node.js" 
