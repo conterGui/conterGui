@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-My name is Guilherme Conter, I am 18 years old and I am from Brazil. I am currently finishing high school at AERDL, along with a professional technical course in Computer Science – Systems. I am passionate about technology and always seek to expand my knowledge in the field. I continuously aim to improve my skills through hands-on projects and ongoing study.
+Junior Software Developer at SoftFinance, currently studying Network and Systems. Passionate about software engineering, cybersecurity, networking and information security. I enjoy solving technical challenges, building practical projects and continuously improving my skills, with a long-term focus on cybersecurity, DevOps, DevSecOps and secure software development.
 
 ---
 
